@@ -1,0 +1,35 @@
+body {
+  background-color: cyan;
+}
+
+.App {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+button {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  width: 90px;
+  height: 2rem;
+  border-radius: 10px;
+}
+
+.song {
+  border: 1px solid gray;
+  border-radius: 10px;
+  border-width: thin;
+  margin: 0.5rem 0rem;
+  padding: 1rem;
+  max-width: 400px;
+}
+
+.larger {
+  font-size: larger;
+}
+
+.smaller {
+  font-size: smaller;
+}
