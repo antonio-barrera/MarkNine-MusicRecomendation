@@ -4,21 +4,19 @@ import { useState } from "react";
 const rockSongs = {
   "Don´t Cry": "4/5",
   "November Rain": "5/5",
-  Thunderstruct: "3/5",
   "Smoke on the Water": "4/5",
   "Stairway to Heaven": "5/5"
 };
 
 const romanticSongs = {
   "Wonderful Tonight": "4/5",
-  Something: "3/5",
+  "Something Else": "3/5",
   "God Only Knows": "4/5",
   "We Found Love": "5/5"
 };
 
 const hipHopSongs = {
   "Cleanin' Out my Closet": "3.5/5",
-  Mockinbird: "3/5",
   "In the Club": "4/5",
   "Lose Yuorself": "5/5",
   "Fight the Power": "3/5"
